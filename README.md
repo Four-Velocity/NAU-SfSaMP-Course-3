@@ -1,44 +1,9 @@
-# default
+# Лабораторна Робота №3
 
-## Project setup
+> Системи для малих та мобільних платформ  
+> Обробка подій у графічному інтерфейсі Android-застосунку  
+> Варіант №13
 
-```
-# yarn
-yarn
-
-# npm
-npm install
-
-# pnpm
-pnpm install
-```
-
-### Compiles and hot-reloads for development
-
-```
-# yarn
-yarn dev
-
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-```
-
-### Compiles and minifies for production
-
-```
-# yarn
-yarn build
-
-# npm
-npm run build
-
-# pnpm
-pnpm build
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://vitejs.dev/config/).
+## Установка програми
+Перейти за поссиланням [ssmp.3.four-velocity.com](https://ssmp.3.four-velocity.com) та клікнути "Установити"
+> Посилання є валідним до 31 Dec 2022
